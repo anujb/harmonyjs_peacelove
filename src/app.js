@@ -24,7 +24,7 @@ class HomeController {
       res.status(200);
 
       if(req.query.name != null){
-        res.send("Howdy, welcome to the future - " + req.query.name);
+        res.send("Howdy, welcome to the future - " + req.query.name + "!");
       }
       else {
         res.send("Howdy, welcome to the future!");
