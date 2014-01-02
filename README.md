@@ -1,4 +1,4 @@
-# Harmony - Peace Love and ECMAScript 6
+# ES6 - Peace, Love, & Harmony
 > Template project for testing out Javascript vNext (ECMAScript 6 aka "Harmony") via the Google Traceur Compiler with a simple Express service.
 
 ## Getting Started
