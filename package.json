@@ -1,6 +1,10 @@
 {
   "name": "harmonyjs_peace",
   "version": "1.0.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/anujb/harmonyjs_peacelove.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-traceur": "0.0.3",
