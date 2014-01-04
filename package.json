@@ -5,7 +5,7 @@
     "type" : "git",
     "url" : "https://github.com/anujb/harmonyjs_peacelove.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "grunt": "~0.4.2",
     "grunt-traceur": "0.0.3",
     "grunt-nodemon": "~0.1.2",
